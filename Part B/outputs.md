@@ -10,7 +10,7 @@ This section shows the RTL schematic of the design.
 ## Final Output
 Here is the final output image after running the design.
 
-![Final Output1](./media/op.png)
+![Final Output1](./media/op.jpg)
 ![Final Output](./media/downcount.png)
 
 
