@@ -23,5 +23,5 @@ detailed view of the OneHotEncUpDwn2Bit_0 block
 ### outputs 
 inputs given via jupyter notebook and output is observed in pynq board
 ![op](./media/op1.png)
-![op1](.media/op2.png)
+![op1](./media/op2.png)
 
